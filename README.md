@@ -1,7 +1,7 @@
 # PathPlaning-Algorithms
 ## BFS
-![BFS Algorithm](https://github.com/FaNtic1337/PathPlaning-Algorithm/blob/main/BFS.gif)
+![BFS Algorithm](https://github.com/FaNtic1337/PathPlaning-Algorithm/blob/main/Gifs/BFS.gif)
 ## Dijkstra
-![Dijkstra Algorithm](https://github.com/FaNtic1337/PathPlaning-Algorithm/blob/main/Dijkstra.gif)
+![Dijkstra Algorithm](https://github.com/FaNtic1337/PathPlaning-Algorithm/blob/main/Gifs/Dijkstra.gif)
 ## A*
-![A_Star Algorithm](https://github.com/FaNtic1337/PathPlaning-Algorithm/blob/main/A_Star.gif)
+![A_Star Algorithm](https://github.com/FaNtic1337/PathPlaning-Algorithm/blob/main/Gifs/A_Star.gif)
